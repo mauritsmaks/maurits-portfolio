@@ -108,11 +108,11 @@ theme = "hugo-artists-theme"
 	[params.form]
 		title = "Let's work together"
 		# Form fields
-		name = "Your Name"
-		email = "Your Email"
-		message = "Tell me about your project"
-		buttonText = "Send"
+		name = "Your Name" # Text die boven het invoer veld staat
+		email = "Your Email" # Text die boven het invoer veld staat
+		message = "Tell me about your project" # Text die boven het invoer veld staat
+		buttonText = "Send" # Text op de button
 
 
 	[params.footer]
-		copyright = "Published under the Unlicense License."
+		copyright = "Published under the Unlicense License." # Text onderaan de website
