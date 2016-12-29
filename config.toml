@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://mauritsmaks1.netlify.com"
 languageCode = "en-us"
-title = "Hugo Artists Theme"
+title = "Portfolio - Maurits Maks"
 theme = "hugo-artists-theme"
 
 [params]
@@ -11,7 +11,7 @@ theme = "hugo-artists-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
+	name = "Maurits Maks"
 	description = "Your description"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
@@ -108,10 +108,10 @@ theme = "hugo-artists-theme"
 	[params.form]
 		title = "Let's work together"
 		# Form fields
-		name = "Your Name" # Text die boven het invoer veld staat
-		email = "Your Email" # Text die boven het invoer veld staat
-		message = "Tell me about your project" # Text die boven het invoer veld staat
-		buttonText = "Send" # Text op de button
+		name = "Uw naam" # Text die boven het invoer veld staat
+		email = "uw email" # Text die boven het invoer veld staat
+		message = "Welk bericht wilt u versturen?" # Text die boven het invoer veld staat
+		buttonText = "Versturen" # Text op de button
 
 
 	[params.footer]
