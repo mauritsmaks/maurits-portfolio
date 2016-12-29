@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://mauritsmaks1.netlify.com/" # moet met een / eindigen
+baseurl = "https://mauritsmaks.netlify.com/" # moet met een / eindigen
 languageCode = "en-us"
 title = "Portfolio - Maurits Maks"
 theme = "hugo-artists-theme"
