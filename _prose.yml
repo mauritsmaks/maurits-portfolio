@@ -1,4 +1,5 @@
 prose:
+  rooturl: 'content/work'
   metadata:
     config.toml:
         - name: 'title'
