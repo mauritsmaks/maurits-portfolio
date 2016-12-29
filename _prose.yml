@@ -1,2 +1,9 @@
 prose:
-  rooturl: 'content/work'
+  rooturl: '/'
+  metadata:
+    data/work:
+        - name: "title"
+        field:
+          element: "text"
+          label: "Item Title"
+          value: ""
