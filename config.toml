@@ -25,7 +25,7 @@ theme = "hugo-artists-theme"
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "your@email.com"
+	email = "MauritsMaks@gmail.com"
 
 
 	# Header an navigation
@@ -35,7 +35,7 @@ theme = "hugo-artists-theme"
 	# But keep the original filename!
 	[params.header]
 		title = "Maurits Maks"
-		shortBio = "Engineer // Designer // Prototyper"
+		shortBio = "Engineering // Design // Prototyping"
 
 
 	# About section
