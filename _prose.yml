@@ -1,10 +1,14 @@
 prose:
-  rooturl: 'content/work'
   metadata:
     config.toml:
-        - name: 'permalink'
+        - name: 'title'
         field:
           element: 'text'
           label: 'Titel'
           value: 'Website Titel'
-    
+    content/work:
+        - name: 'posttitle'
+        field:
+          element: 'text'
+          label: 'Titel'
+          value: 'Website Titel'
