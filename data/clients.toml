@@ -1,12 +1,12 @@
 # Section title
-title = "Clients"
+title = "Strategy"
 
 [[list]]
-    avatar = "face-aaroni.jpg"
-    name   = "Scott Summers"
-    title  = "Director of Design, OnToText Ind."
-    quote  = "**While we all felt that Travis was a great** asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often."
-    logo   = "logo1.png"
+    avatar = "idea.jpg"
+    #name   = "Scott Summers"
+    title  = "Idea generation."
+    quote  = "**First step is to generate idea's** together with project the stakeholders, like users, engineers, investers, etc."
+    #logo   = "logo1.png"
 
 [[list]]
     avatar = "face-atariboy.jpg"
