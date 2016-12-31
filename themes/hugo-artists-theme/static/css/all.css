@@ -1010,7 +1010,7 @@ footer {
       min-width: 300px;
       text-align: center; }
       .clients-belt .client-unit .client-face img {
-        max-width: 100px;
+        max-width: 500px;
         border-radius: 50%; }
       .clients-belt .client-unit .client-face .client-name {
         display: block;
