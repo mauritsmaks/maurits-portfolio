@@ -12,7 +12,7 @@ theme = "hugo-artists-theme"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Portfolio Maurits Maks"
-	description = "Check out the new portfolio of Maurits Maks, an Industrial Design Engineer specialized in PROTOTYPING."
+	description = "Check out the new portfolio of Maurits Maks, an Industrial Design Engineer specialized in PROTOTYPING and MECHATRONICS."
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -46,19 +46,15 @@ theme = "hugo-artists-theme"
 		bio = "**Maurits builds prototypes** by combining knowledge on the field of Mechanics, Electronics and Rapid Prototyping."
 
 		[[params.about.skills]]
-			name = "Communication"
-			value = 7
-
-		[[params.about.skills]]
 			name = "Prototyping"
-			value = 9
+			value = 10
 
 		[[params.about.skills]]
 			name = "CAD"
 			value = 9
 
 		[[params.about.skills]]
-			name = "Electronics"
+			name = "Robotics"
 			value = 8
 
 		[[params.about.skills]]
@@ -70,12 +66,8 @@ theme = "hugo-artists-theme"
 			value = 7
 
 		[[params.about.skills]]
-			name = "Research"
-			value = 6
-
-		[[params.about.skills]]
-			name = "Robotics"
-			value = 7
+			name = "Mechatronics"
+			value = 8
 
 	# Contact secion
 	[params.contact]
@@ -86,7 +78,7 @@ theme = "hugo-artists-theme"
 		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 		[[params.contact.social]]
 			icon = "linkedin"
-			link = "//www.linkedin.com/in/travisneilson"
+			link = "https://nl.linkedin.com/in/maurits-maks-963788a6"
 
 
 	[params.form]
