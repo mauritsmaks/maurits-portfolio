@@ -43,39 +43,39 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "**Maurits builds prototypes** by combining knowledge on the field of Mechanics, Electronics and Rapid Prototyping. This process starts with idea generation together with the client. Next step is to create multiple concepts, and chose what to develop further. Engineering is done in combination with a detailed 3D CAD design. The design will pass multiple iterations"
+		bio = "**Maurits builds prototypes** by combining knowledge on the field of Mechanics, Electronics and Rapid Prototyping."
 
 		[[params.about.skills]]
 			name = "Communication"
+			value = 7
+
+		[[params.about.skills]]
+			name = "Prototyping"
 			value = 9
 
 		[[params.about.skills]]
-			name = "Organization"
-			value = 7
+			name = "CAD"
+			value = 9
 
 		[[params.about.skills]]
-			name = "Learning"
-			value = 10
-
-		[[params.about.skills]]
-			name = "Teaching"
-			value = 6
-
-		[[params.about.skills]]
-			name = "Planning"
-			value = 7
-
-		[[params.about.skills]]
-			name = "Visual Design"
-			value = 5
-
-		[[params.about.skills]]
-			name = "UX Design"
+			name = "Electronics"
 			value = 8
 
 		[[params.about.skills]]
-			name = "Programming"
+			name = "Design"
+			value = 7
+
+		[[params.about.skills]]
+			name = "Team Work"
+			value = 7
+
+		[[params.about.skills]]
+			name = "Research"
 			value = 6
+
+		[[params.about.skills]]
+			name = "Robotics"
+			value = 7
 
 	# Contact secion
 	[params.contact]
@@ -85,22 +85,6 @@ theme = "hugo-artists-theme"
 		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
 		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 		[[params.contact.social]]
-			icon = "twitter"
-			link = "//twitter.com/devtipsshow"
-
-		[[params.contact.social]]
-			icon = "dribbble"
-			link = "//dribbble.com/travisneilson"
-
-		[[params.contact.social]]
-			icon = "behance"
-			link = "//www.behance.net/travisneilson"
-
-		[[params.contact.social]]
-			icon = "youtube"
-			link = "//www.youtube.com/DevTipsForDesigners"
-
-		[[params.contact.social]]
 			icon = "linkedin"
 			link = "//www.linkedin.com/in/travisneilson"
 
@@ -108,10 +92,10 @@ theme = "hugo-artists-theme"
 	[params.form]
 		title = "Let's work together"
 		# Form fields
-		name = "Uw naam" # Text die boven het invoer veld staat
-		email = "uw email" # Text die boven het invoer veld staat
-		message = "Welk bericht wilt u versturen?" # Text die boven het invoer veld staat
-		buttonText = "Versturen" # Text op de button
+		name = "Name" # Text die boven het invoer veld staat
+		email = "Email" # Text die boven het invoer veld staat
+		message = "Message" # Text die boven het invoer veld staat
+		buttonText = "Send" # Text op de button
 
 
 	[params.footer]
