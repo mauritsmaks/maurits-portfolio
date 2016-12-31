@@ -11,8 +11,8 @@ theme = "hugo-artists-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Maurits Maks"
-	description = "Your description"
+	name = "Portfolio Maurits Maks"
+	description = "Check out the new portfolio of Maurits Maks, an Industrial Design Engineer specialized in PROTOTYPING."
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -43,7 +43,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "**Travis specializes in making things** for human people. Most of the things he makes are [digital interfaces](//travisneilson.com/), but he also puts effort into crafting [next-level beats](//soundcloud.com/travis-neilson) and [YouTube videos](//youtube.com/user/devtipsfordesigners) about making codes happen."
+		bio = "**Maurits builds prototypes** by combining knowledge on the field of Mechanics, Electronics and Rapid Prototyping. This process starts with idea generation together with the client. Next step is to create multiple concepts, and chose what to develop further. Engineering is done in combination with a detailed 3D CAD design. The design will pass multiple iterations"
 
 		[[params.about.skills]]
 			name = "Communication"
