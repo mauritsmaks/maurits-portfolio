@@ -1,8 +1,12 @@
+**Inspection Robot [2015-now]:** Currently, there is no inspection technique meeting all requirements to inspect the 120,000 km of underground drinking water mains in use in the Netherlands. Application of conventional techniques is limited by the many bends and lack of access points in the pipe network, besides the undesired possible downtime of the system and risk of contamination.
+Nevertheless, obtaining detailed pipe condition data is essential for deciding to replace the right pipe at the right time.
+In this project an autonomous inspection robot is proposed for long term stay in the mains and with on board inspection technologies. Prototyping focuses on traveling through the network and robot dimensions.
+
 ![Front view of robot](img/work/robot/1-1.jpg)
+*Front view of the robot with onboard camera and lighting, in blue the propeller for the propulsion through the pipe network.*
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
 
-![image_2016-11-16_20-40-27.png]({{site.baseurl}}/static/img/image_2016-11-16_20-40-27.png)
+
 
 
 ![Typo International](img/work/robot/1-1.jpg)
