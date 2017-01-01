@@ -6,8 +6,8 @@ title = "Work"
     folder = "robot"
 
 [[projects]]
-    name = "City-IN website concept"
-    folder = "proj-2"
+    name = "ANT"
+    folder = "ant"
 
 [[projects]]
     name = "Crispy Icons"
