@@ -2,8 +2,8 @@
 title = "Work"
 
 [[projects]]
-    name = "test"
-    folder = "proj-1"
+    name = "Inspection Robot"
+    folder = "robot"
 
 [[projects]]
     name = "City-IN website concept"
