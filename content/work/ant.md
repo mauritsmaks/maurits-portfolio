@@ -1,8 +1,8 @@
 **Ant [2012]:** Sculpture made from prototyping leftovers.
 
 
-![Ant on big red blocks.](img/work/ant/ant_on_blocks.jpg)
-###*Ant on big red blocks at the University of Twente. Scale of the insect is approximately 1000:1.*###
+#####![Ant on big red blocks.](img/work/ant/ant_on_blocks.jpg)
+*Ant on big red blocks at the University of Twente. Scale of the insect is approximately 1000:1.*#####
 
 
 [![Stop-motion video.](img/work/ant/ant_build_off.jpg)](https://www.youtube.com/embed/EbJBeV-nksY?autoplay=1 "Stop-motion video.")
