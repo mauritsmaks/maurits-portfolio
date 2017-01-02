@@ -8,5 +8,5 @@ In this project an autonomous inspection robot is proposed for long term stay in
 Check out the latest publication [Water Matters](http://www.h2o-watermatters.com/?article=2016123 "English publication in Water Matters, december 2016.") with detailed information about our vision on future inspections. This project is a cooperation between [KWR](https://www.kwrwater.nl/ "Bridging science to practice in the watercycle") and [Wetsus](https://www.wetsus.nl/ "European centre of excellence for sustainable water technology") funded by the Dutch drinking water companies.
 
 ![Side view of robot](img/work/robot/robot_sideview.jpg)
-*Front view of the robot with onboard camera and lighting, in blue the propeller for the propulsion through the water filled pipe network.*
+*Sice view of the robot, *
 
