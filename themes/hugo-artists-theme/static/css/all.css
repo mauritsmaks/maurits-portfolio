@@ -776,7 +776,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #e3c6b1;
+    color: #8caeda;
 }
 
 
@@ -1145,16 +1145,6 @@ footer .lockup .content-wrap a:hover {
     border-radius: 50%;
 }
 
-.skill-lockup .skill-icons span:after {
-    content: "";
-    display: block;
-    height: 10px;
-    width: 10px;
-    background: #fff;
-    border-radius: 50%;
-    margin: 2px;
-}
-
 .skill-lockup .skill-icons.skill-1 span:nth-child(n+2),
 .skill-lockup .skill-icons.skill-2 span:nth-child(n+3),
 .skill-lockup .skill-icons.skill-3 span:nth-child(n+4),
@@ -1445,6 +1435,12 @@ footer .lockup .content-wrap a:hover {
 
 .clients-belt .client-unit .client-face img {
     max-width: 400px;
+
+}
+@media (max-width: 600px) {
+    .clients-belt .client-unit .client-face img {
+        width: 100%;
+    }
 }
 
 .clients-belt .client-unit .client-face .client-name {
@@ -1471,7 +1467,7 @@ footer .lockup .content-wrap a:hover {
 
 .clients-logos {
     position: relative;
-    max-width: 750px;
+    max-width: 550px;
     margin: 0px auto 100px;
     display: -webkit-box;
     display: -moz-box;
@@ -1506,6 +1502,7 @@ footer .lockup .content-wrap a:hover {
     padding-bottom: 20px;
     border-bottom: 4px solid transparent;
     opacity: 0.5;
+    transform: scale(0.8);
 }
 
 .clients-logos .client-logo.active-client {
@@ -1701,11 +1698,17 @@ footer .lockup .content-wrap a:hover {
 
 .biglink {
     display: inline-block;
-    font-size: 42px;
+    font-size: 36px !important;
     font-weight: 300;
     line-height: 1;
     width: 90%;
     margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+    .biglink {
+        font-size: 24px !important;
+    }
 }
 
 form {
