@@ -1369,6 +1369,11 @@ footer .lockup .content-wrap a:hover {
     margin-left: 5%;
 }
 
+.work-container iframe {
+    max-width: 95%;
+    margin-left: 5%;
+}
+
 .work-container h5 {
     max-width: 95%;
     margin-left: 5%;

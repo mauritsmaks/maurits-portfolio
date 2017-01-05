@@ -5,7 +5,7 @@
 *Ant on big red blocks at the University of Twente. Scale of the insect is approximately 1000:1.*
 
 
-[[embed url=https://www.youtube.com/embed/EbJBeV-nksY]]
+{{< youtube EbJBeV-nksY >}}
 *Stop-motion video showing the construction of the sculpture. Building time approximately three days, final details for expositions another two days.*
 
 
