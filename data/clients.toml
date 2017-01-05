@@ -4,27 +4,27 @@ title = "Strategy"
 [[list]]
     avatar = "1-idea.jpg"
     #name   = "Scott Summers"
-    title  = "Idea generation."
+    title  = "Idea generation sketching."
     quote  = "**First step is to generate idea's** together with the project stakeholders, like users, engineers, investers, etc."
     logo   = "1-logo-idea.jpg"
 
 [[list]]
     avatar = "2-concepten.jpg"
     #name   = "Hank McCoy"
-    title  = "Concept generation."
+    title  = "Concept generation for discussion."
     quote  = "**Idea's become concepts** of which one is chosen to further elaborate. This requires sketches, computer drawings, calculations and building mock-ups."
     logo   = "2-logo-concept.jpg"
 
 [[list]]
     avatar = "3-CAD.jpg"
     #name   = "Stacy Lang"
-    title  = "CAD design render."
+    title  = "CAD design render in SolidWorks."
     quote  = "**Concepts become designs** which are drawn in 3D-CAD programs and can be used for discussion, simulation, analysis and 3D-printing. Using 3D-printing early in the design process allows to touch and feel the results and make them fit together."
     logo   = "3-logo-3Dprint.jpg"
 
 [[list]]
     avatar = "4-build.jpg"
     #name   = "Cleatus Cassidy"
-    title  = "Laser-cut prototype."
-    quote  = "**Design becomes prototype** created with rapid prototyping techniques like laser-cutting and 3D-printing. This can be used as a technical model for testing or a model for "
+    title  = "Laser-cut and assembled prototype."
+    quote  = "**Design becomes a prototype** created with rapid prototyping techniques like laser-cutting and 3D-printing. Prototypes can be used as a technical model for testing or as a model for user interactions or visualization."
     logo   = "4-logo-laser.jpg"
