@@ -15,6 +15,10 @@ $(function() {
 	window.addEventListener('popstate', function(event) {
 		workViewBack()
 		history.pushState(null, null, '/');
+
+		$('html, body').animate({
+			scrollTop: $('.section-work').offset().top,
+		});
 	});
 });
 
