@@ -1,4 +1,4 @@
-**Smart Textile [2015]:** Use of electronics in textiles creates many possibilities for new applications, not only on the field of clothing but also house decoration. In clothing it is now possible to integrate bio monitoring, for healthcare, sports, fire fighters and many more professions. Also fashion can use electronics to produce unique items for personal use.
+**Smart Textile [2015]:** Use of electronics in textiles creates many possibilities for new applications, not only in the field of clothing but also in house decoration. It is now possible to integrate bio monitoring into clothing, for healthcare, sports, fire fighters and many more applications. Also fashion can use electronics to produce unique items for personal use.
 
 ![Working Smart Textile in hand.](img/work/smart/Smart_in_hand_color.jpg)
 ##### Electronics on textile, with wiring, led’s, batteries and microcontroller.
