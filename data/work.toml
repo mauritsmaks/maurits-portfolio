@@ -6,10 +6,6 @@ title = "Work"
     folder = "robot"
 
 [[projects]]
-    name = "ANT"
-    folder = "ant"
-
-[[projects]]
     name = "Smart Textile"
     folder = "smart"
     
@@ -17,3 +13,6 @@ title = "Work"
     name = "Testing Smart Textiles"
     folder = "testing_smart"
     
+[[projects]]
+    name = "ANT"
+    folder = "ant"
