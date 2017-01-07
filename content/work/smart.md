@@ -3,7 +3,7 @@
 ![Working Smart Textile in hand.](img/work/smart/Smart_in_hand_color.jpg)
 ##### Electronics on textile, with wiring, led’s, batteries and microcontroller.
 
-For the department of Smart Functional Materials of Saxion University a prototype was made to demonstrate electronics on textile. This Smart Textiles demonstrates the possibilities with programmable lighting integrated into the textile. 
+For the department of [Smart Functional Materials of Saxion University](https://www.saxion.nl/designentechnologie/site/over/lectoraten/smart/smartfunctionalmaterials_english/ "Smart Functional Materials website.") a prototype was made to demonstrate electronics on textile. This Smart Textiles demonstrates the possibilities with programmable lighting integrated into the textile. 
 
 {{< youtube TK7mxrelKEQ >}}
 ##### Short movie showing the color changing led’s run by a microcontroller.
