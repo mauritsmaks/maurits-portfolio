@@ -13,3 +13,7 @@ title = "Work"
     name = "Smart Textile"
     folder = "smart"
     
+[[projects]]
+    name = "Testing Smart Textiles"
+    folder = "testing_smart"
+    
