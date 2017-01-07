@@ -1,1 +1,1 @@
-![Crispy Icons](img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+**Smart Textile [2015]:** Using of electronics in textiles creates many possibilities for new applications, not only on the field of clothing but also house decoration. In clothing it is now possible to integrate bio monitoring, for healthcare, sports, fire fighters and many more professions. Also fashion can use electronics to produce unique items for personal use.
