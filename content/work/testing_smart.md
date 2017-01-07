@@ -6,9 +6,9 @@
 For the department of [Smart Functional Materials of Saxion University](https://www.saxion.nl/designentechnologie/site/over/lectoraten/smart/smartfunctionalmaterials_english/ "Smart Functional Materials website.") a testing setup was constructed and Smart Textile samples were made. The rig can be run at night to perform tests and the data can be analyzed afterwards. The size of the machine was chosen to be as large as possible within the limitations of the lasercutter that was used. All parts fit together by clamping, so almost no glue was necessary for the construction. 
 
 ![Test setup smart textiles.](img/work/testing_smart/testing_smart_setup.jpg)
-##### Test setup at Saxion University to perform cyclic bending tests on Smart Textile samples. On the left is the controller to run the machine and set number of cycles, angle, speed, etc.
+##### Test setup at Saxion University to perform cyclic bending tests on Smart Textile samples. On the left is the controller to run the machine and set the number of cycles, angle, speed, etc.
 
-The Smart Textile samples were constructed with different types of conductive yarns; copper, stainless steel, silver coated nylon. A circuit board was designed to connect the wires by adhesive bonding with the measuring equipment.
+The Smart Textile samples were constructed with different types of conductive threads, like stainless steel, silver coated nylon, etc. A circuit board was designed to connect the wires by adhesive bonding with the measuring equipment.
 
 ![Samples for testing.](img/work/testing_smart/testing_smart_sample.jpg)
 ##### (left) Three samples with conductive threads ready to be tested. (right)  Five different samples in the testing rig, clamps provide the required pulling force.
