@@ -9,3 +9,5 @@ Check out the latest publication [Water Matters](http://www.h2o-watermatters.com
 
 ![Side view of robot](img/work/robot/robot_sideview.jpg)
 ##### Side view of the robot, from left to right: Empty module for sensors, clamping module for stability, electronics module for control and navigation, clamping module, propulsion module with propeller and camera.
+
+Project is still in development, more detailed information will be added soon.
