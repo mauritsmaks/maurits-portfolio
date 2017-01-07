@@ -1,4 +1,4 @@
-**Testing Smart Textile [2014]:** Use of electronics in textiles creates many possibilities for new applications, not only in the field of clothing but also in house decoration. It is now possible to integrate bio monitoring into clothing, for healthcare, sports, fire fighters and many more applications. To get a better insight in the reliability of Smart Textiles (textiles with electronics) samples were made and tested.
+**Testing Smart Textile [2014]:** Use of electronics in textiles creates many possibilities for new applications, not only in the field of clothing but also in house decoration. It is now possible to integrate bio monitoring into clothing for use in healthcare, sports, hazardous professions and many more applications. To get a better insight in the reliability of Smart Textiles (textiles with electronics) samples were made and tested.
 
 ![Testing results smart textiles.](img/work/testing_smart/testing_smart_results.jpg)
 ##### Typical resistance measurements on the samples show a gradual increase of resistance when subjected to more bends. Tests of 100,000 bending cycles were performed.
