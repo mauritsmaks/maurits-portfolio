@@ -20,3 +20,7 @@ title = "Work"
 [[projects]]
     name = "Home Energy Monitor"
     folder = "home"
+
+[[projects]]
+    name = "Sumobot"
+    folder = "sumo"
