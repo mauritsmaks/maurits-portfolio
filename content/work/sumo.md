@@ -8,7 +8,7 @@ This project work was done at [Windesheim University](https://www.windesheim.nl/
 {{< youtube c-VhdcXkyn0 >}}
 ##### The sumobot in battle with another robot. The ramp shape lifts the other robot so it looses traction and can easily be pushed out.
 
-All parts of the robot where developed by our selves as part of the assignment. The bodywork was made by lasercutting. Printed Circuit Boards were etched and the robot was tested after assembly.
+All parts of the robot where developed by ourselves as part of the assignment. The bodywork was made by lasercutting. Printed circuit boards were etched and the robot was tested after assembly.
 
 ![Electronics for the Sumobot.](img/work/sumo/Sumobot_H-bridge_and_controller.jpg)
 ##### This board controls the motors of the sumobot, with on the right the electronics to power the motors. On the left are placed the regulators and circuit protections.
