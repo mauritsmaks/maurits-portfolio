@@ -22,5 +22,9 @@ title = "Work"
     folder = "home"
 
 [[projects]]
+    name = "Wrist Watch"
+    folder = "watch"
+    
+[[projects]]
     name = "Sumobot"
     folder = "sumo"
