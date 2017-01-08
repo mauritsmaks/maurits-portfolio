@@ -5,7 +5,7 @@
 
 For the department of [Smart Functional Materials of Saxion University](https://www.saxion.nl/designentechnologie/site/over/lectoraten/smart/smartfunctionalmaterials_english/ "Smart Functional Materials website.") a prototype was made to demonstrate electronics on textile. This Smart Textiles demonstrates some possibilities with programmable lighting integrated into the textile. 
 
-{{< youtube TK7mxrelKEQ >}}
+{{< youtube 8-N1cA7Noj8 >}}
 ##### Short movie showing the color changing led’s run by a microcontroller.
 
 Main focus in building the prototype was on fixing the wires to the textile and the electrical contact between wires and electronics. Fixing the wires was achieved by encapsulating wires in flexible plastic; first the plastic was applied by 3D-printer. This allowed for precise placement of electronic lines. Secondly continuous stainless steel fibers were manually placed and attached. And in the last step the 3D-printer was used to cover and attach the fibers.
