@@ -12,15 +12,15 @@ title = "Work"
 [[projects]]
     name = "Testing Smart Textiles"
     folder = "testing_smart"
-    
-[[projects]]
-    name = "ANT"
-    folder = "ant"
 
 [[projects]]
     name = "Home Energy Monitor"
     folder = "home"
-
+    
+[[projects]]
+    name = "ANT"
+    folder = "ant"
+    
 [[projects]]
     name = "Wrist Watch"
     folder = "watch"
