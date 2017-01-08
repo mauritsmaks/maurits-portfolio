@@ -3,7 +3,7 @@
 ![Sumobot in ring.](img/work/sumo/Sumobot_in_ring.jpg)
 ##### The robot can detect a white line marking the edge on a black floor; it will then turn away from the edge. A distance sensor is used to detect the other robot.
 
-This project work was done at Windesheim University, together with students from other disciplines: J. Meijers, J. Peters, T. van den Bosch, W. Bekedam, J. van Dorp.
+This project work was done at [Windesheim University](https://www.windesheim.nl/studeren/opleidingen/techniek-en-ict/elektrotechniek/ "Windesheim Electrical Engineering website."), together with students from other disciplines: J. Meijers, J. Peters, T. van den Bosch, W. Bekedam, J. van Dorp.
 
 {{< youtube c-VhdcXkyn0 >}}
 ##### The sumobot in battle with another robot. The ramp shape lifts the other robot so it looses traction and can easily be pushed out.
