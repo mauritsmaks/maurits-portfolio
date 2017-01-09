@@ -3,7 +3,7 @@
 {{< youtube LbDcz1rxRhY >}}
 ##### The prototype Cable Guiding System travelling through a straight pipe and pulling the cable. The system consists of multiple modules, for now the clamp and pulling module are operational.
 
-This design fits the PIRATE inspection robot developed at the department of Robotics and Mechatronics of Twente University. It has to fit small pipes 2” and larger, and must be able to pass T-joints. 
+This design fits the [PIRATE inspection robot](http://inspectierobot.edwindertien.nl/ "PIRATE inspection robot website.")developed at the department of [Robotics and Mechatronics](https://www.ram.ewi.utwente.nl/default.html "The department of Robotics and Mechatronics.") of [Twente University](https://www.utwente.nl/ "The website of University Twente."). It has to fit small pipes 2” and larger, and must be able to pass T-joints. 
 
 ![Clamping mechanism in a pipe.](img/work/guiding/guide_clamp.jpg)
 ##### The clamping module can fit in pipes of different materials and sizes. The clamping mechanism is here shown without the cables and other modules attached.
