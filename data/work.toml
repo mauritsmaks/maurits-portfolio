@@ -8,6 +8,10 @@ title = "Work"
 [[projects]]
     name = "Smart Textile"
     folder = "smart"
+   
+ [[projects]]
+    name = "Cable Guiding System"
+    folder = "guiding"
     
 [[projects]]
     name = "Testing Smart Textiles"
