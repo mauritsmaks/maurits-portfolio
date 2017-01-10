@@ -1,6 +1,6 @@
-**Inspection Robot [2015-now]:** Currently, there is no inspection technique meeting all requirements to inspect the 120,000 km of underground drinking water mains in use in the Netherlands. Application of conventional techniques is limited by the many bends and lack of access points in the pipe network, besides the undesired possible downtime of the system and risk of contamination.
-Nevertheless, obtaining detailed pipe condition data is essential for deciding to replace the right pipe at the right time.
-In this project an autonomous inspection robot is proposed for long term stay in the mains and with on board inspection technologies. Prototyping focuses on traveling through the network and robot dimensions.
+**Inspection Robot [2015-now]:** Currently, there is no inspection technique meeting all requirements to inspect the 120,000 km of underground drinking water mains in use in the Netherlands. Application of conventional techniques is limited by the many bends and lack of access points in the pipe network, besides the undesired downtime of the system and risk of contamination.
+Nevertheless, obtaining detailed data on pipe condition is essential for replacing the right pipe at the right time.
+In this project an autonomous inspection robot is proposed, capable of long term stay in the mains, and equipped with on board inspection technologies. Prototyping currently focusses on traveling through the network and robot dimensions.
 
 ![Front view of robot](img/work/robot/robot_front.jpg)
 ##### Front view of the robot with onboard camera and lighting, in blue the propeller for propulsion through the water filled pipe network.
