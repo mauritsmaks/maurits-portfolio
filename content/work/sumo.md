@@ -14,4 +14,4 @@ All parts of the robot where developed by ourselves as part of the assignment. T
 ##### This board controls the motors of the sumobot. The electronics powering the motors are on the right. On the left are the regulators and circuit protection.
 
 {{< youtube eCVdVAsHIIA >}}
-##### Explanation of the main parts of the sumo-robot. [Dutch]
+##### Explanation of the main parts of the sumo-robot in Dutch.
