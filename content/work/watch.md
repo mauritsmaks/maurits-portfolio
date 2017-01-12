@@ -3,7 +3,7 @@
 ![Sumobot in ring.](img/work/watch/watch_next.jpg)
 ##### The Skeletool multitool and the watch, both made of stainless steel and both produced by lasercutting. The clockwork inside the watch is fully functional.
 
-This Watch is multifunctional with hidden functions that are activated when opened. The design focused on a hidden function like a speed detector. Because the parts can move, it is possible to test user interaction on a shape level.
+This watch is multifunctional with hidden functions that are activated when opened. The design focused on a hidden function like a speed detector. Because the parts can move, it is possible to test user interaction on a shape level.
 
 ![Electronics for the Sumobot.](img/work/watch/watch.gif)
 ##### User interaction with the watch to reveal a (theoretical) hidden feature. This could activate the built-in radar detector to detect the speed of an object.
