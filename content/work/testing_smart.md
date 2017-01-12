@@ -3,7 +3,7 @@
 ![Testing results smart textiles.](img/work/testing_smart/testing_smart_results.jpg)
 ##### Typical resistance measurements on the samples show a gradual increase of resistance when subjected to more bends. Tests of 100,000 bending cycles were performed.
 
-For the department of [Smart Functional Materials of Saxion University](https://www.saxion.nl/designentechnologie/site/over/lectoraten/smart/smartfunctionalmaterials_english/ "Smart Functional Materials website.") a testing setup was constructed and Smart Textile samples were made. The rig can be run at night to perform tests and the data can be analyzed afterwards. The size of the machine was chosen to be as large as possible within the limitations of the lasercutter that was used. All parts fit together by clamping, so almost no glue was necessary for the construction. 
+For the department of [Smart Functional Materials of Saxion University](https://www.saxion.nl/designentechnologie/site/over/lectoraten/smart/smartfunctionalmaterials_english/ "Smart Functional Materials website.") a testing setup was constructed and Smart Textile samples were made. The rig can be ran at night to perform tests and the data can be analyzed afterwards. The size of the machine was chosen to be as large as possible within the limitations of the lasercutter used. All parts fit together by clamping, so almost no glue was necessary for the construction. 
 
 ![Test setup smart textiles.](img/work/testing_smart/testing_smart_setup.jpg)
 ##### Test setup at Saxion University to perform cyclic bending tests on Smart Textile samples. On the left is the controller to run the machine and set the number of cycles, angle, speed, etc.
