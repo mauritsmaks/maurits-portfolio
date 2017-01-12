@@ -4,13 +4,13 @@ title = "Strategy"
 [[list]]
     avatar = "1-idea.jpg"
     title  = "Idea generation and sketching."
-    quote  = "**Idea's are generated** together with the project stakeholders, like users, engineers, investers, etc."
+    quote  = "**Ideas are generated** together with the project stakeholders, like users, engineers, investers, etc."
     logo   = "1-logo-idea.jpg"
 
 [[list]]
     avatar = "2-concepten.jpg"
     title  = "Concept generation for discussion."
-    quote  = "**Idea's become concepts** of which one is chosen to further elaborate. This can be done with sketches, computer drawings, calculations and mock-ups can be build for interactions."
+    quote  = "**Ideas become concepts** of which one is chosen to further elaborate. This can be done with sketches, computer drawings, calculations and mock-ups can be build for interactions."
     logo   = "2-logo-concept.jpg"
 
 [[list]]
