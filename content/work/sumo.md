@@ -11,7 +11,7 @@ This project work was done at [Windesheim University](https://www.windesheim.nl/
 All parts of the robot where developed by ourselves as part of the assignment. The bodywork was made by lasercutting. Printed circuit boards were etched and the robot was tested after assembly.
 
 ![Electronics for the Sumobot.](img/work/sumo/Sumobot_H-bridge_and_controller.jpg)
-##### This board controls the motors of the sumobot, with on the right the electronics to power the motors. On the left are placed the regulators and circuit protections.
+##### This board controls the motors of the sumobot. The electronics powering the motors are on the right. On the left are the regulators and circuit protection.
 
 {{< youtube eCVdVAsHIIA >}}
 ##### Explanation of the main parts of the sumo-robot. [Dutch]
