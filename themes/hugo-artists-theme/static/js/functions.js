@@ -10,7 +10,7 @@ $(function() {
 
 	$('textarea').autosize();
 
-	history.pushState(null, null, '/');
+	// history.pushState(null, null, '/');
 
 	window.addEventListener('popstate', function(event) {
 		workViewBack()
