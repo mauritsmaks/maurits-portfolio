@@ -10,11 +10,8 @@ $(function() {
 
 	$('textarea').autosize();
 
-	history.pushState(null, null, '/');
-
 	window.addEventListener('popstate', function(event) {
 		workViewBack()
-		history.pushState(null, null, '/');
 
 		$('html, body').animate({
 			scrollTop: $('.section-work').offset().top,
@@ -52,6 +49,8 @@ function workBelt() {
     $('.work-belt').addClass("slided");
     $('.work-container').show();
 		insideWorkView = true
+		history.pushState(null, null, '/');
+		$('.section-work')[0].scrollIntoView()
   });
 
   $('.work-return').click(function() {
